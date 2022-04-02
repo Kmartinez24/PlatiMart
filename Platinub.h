@@ -1,0 +1,13 @@
+int simple_menu(char* titulodiezpal,char* subtemacincuentapal, char* aQUINCE,char* bQUINCE,char* cQUINCE,char* dQUINCE,char* texto1r,char* texto2r,char* texto3r,char* texto4r,char* texto5r,char* texto6,char* texto7r,char* texto8r);
+char Registro(char* Nombre);
+void Cargar();
+int Contador(char* oracion);
+int opciones_prefix(int* opcion,char* aQUINCE,char* bQUINCE,char* cQUINCE,char* dQUINCE);
+void FormularioStart();
+void FormularioEnd();
+void LineaCargar();
+int suma(int a,int b,int* R);
+int resta(int a,int b,int* R);
+int division(int a,int b,int* R);
+int multi(int a,int b,int* R);
+int RANDOM(int *r,int de,int hasta);
