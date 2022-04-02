@@ -1,1 +1,1 @@
-#Plati-Mart
+# PlatiMart
